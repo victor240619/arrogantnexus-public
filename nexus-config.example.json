@@ -1,0 +1,20 @@
+{
+  "_comment": "Copie para nexus-config.json somente em uso local. Nunca publique tokens ou chaves.",
+  "force": false,
+  "keys": {
+    "anx_nexuslm_url": "",
+    "anx_engine_url": "",
+    "anx_engine_text_url": "",
+    "anx_camera_url": "",
+    "anx_nac_url": "",
+    "anx_voip_url": "",
+    "anx_vision_url": "",
+    "anx_audio_url": "",
+    "anx_training_url": "",
+    "anx_lora_url": "",
+    "anx_tactical_url": "",
+    "anx_cyberlab_url": "",
+    "anx_external_ai_enabled": "false",
+    "nexus_ollama_url": ""
+  }
+}
